@@ -3,17 +3,48 @@
 @import url(locations.css);
 @import url(quotes.css);
 
+body {
+    /* font-family: ; */
+    background: bisque;
+}
+
+.pageHeader {
+  margin-top: 0px;
+  padding-top: 1.5rem;
+  color: ivory;
+  font-size: 45px;
+}
+
+.mainHeaderBackground {
+    width: auto;
+    height: auto;
+    background:url("./images/martinsOcean.jpg");
+    background-repeat: reapeat-y;
+}
+
+.mainHeader {
+  background-color: aquamarine;
+  border: double black;
+}
+
+.pageSummary {
+  padding-bottom: 1.5rem;
+  font-size: 20px;
+
+}
 
 .pageSummary, .pageHeader {
-    text-align: center;
-
+  text-align: center;
+  color: ivory;
+  
 }
 
 .pageContainer {
-    display: flex;
+  display: flex;
 }
 
 .flexContainerLeft {
-    flex: 3;
+  flex: 2.5;
+  border: double black;
 }
 

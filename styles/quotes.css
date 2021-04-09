@@ -1,5 +1,6 @@
 .quoteMain {
     display: flex;
+    border-bottom: double black;
 
 }
 
@@ -8,8 +9,7 @@
 }
 
 .quoteHeader {
-    /* text-align: center; */
-    margin-bottom: 1.5rem;
-    /* margin-left: 1.5rem; */
-    margin-top: 1.5rem;
+     margin-bottom: 2.5rem;
+     margin-left: 1.5rem;
+     margin-top: 1.5rem;
 }
