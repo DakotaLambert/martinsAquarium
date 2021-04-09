@@ -1,0 +1,27 @@
+.fishes {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+ .fishImage {
+     max-height: 10rem;
+     margin: 2rem;
+ }
+
+ .fishInfo {
+     display: flex;
+     flex-wrap: wrap;
+
+ }
+
+ .fishName {
+     text-align: center;
+ }
+
+ .fishHeader {
+     /* text-align: center; */
+     margin-bottom: 1.5rem;
+     /* margin-left: 1.5rem; */
+     margin-top: 1.5rem;
+ }
