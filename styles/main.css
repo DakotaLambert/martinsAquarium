@@ -1,4 +1,19 @@
+@import url(tips.css);
+@import url(fishes.css);
+@import url(locations.css);
+@import url(quotes.css);
 
-#fishtank {}
-.fish {}
-.fish_name {}
+
+.pageSummary, .pageHeader {
+    text-align: center;
+
+}
+
+.pageContainer {
+    display: flex;
+}
+
+.flexContainerLeft {
+    flex: 3;
+}
+

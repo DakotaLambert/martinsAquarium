@@ -1,0 +1,20 @@
+.locations {
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.locationImage {
+    justify-content: space-between;
+    margin: 2rem;
+}
+
+.locationName {
+    text-align: center;
+}
+
+.locationHeader {
+    /* text-align: center; */
+    margin-bottom: 1.5rem;
+    /* margin-left: 1.5rem; */
+    margin-top: 1.5rem;
+}
