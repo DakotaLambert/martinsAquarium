@@ -1,9 +1,12 @@
 .tips {
     flex: 1;
-    
+    padding-right: .5rem;
+    padding-left: .5rem;
+    border: double black;
     
 }
 
 .tipHeader {
     text-align: center;
+    
 }

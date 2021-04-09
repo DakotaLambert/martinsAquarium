@@ -6,6 +6,7 @@
 .locationImage {
     justify-content: space-between;
     margin: 2rem;
+    border: double black;
 }
 
 .locationName {
@@ -13,8 +14,7 @@
 }
 
 .locationHeader {
-    /* text-align: center; */
-    margin-bottom: 1.5rem;
-    /* margin-left: 1.5rem; */
-    margin-top: 1.5rem;
+     margin-bottom: 2.5rem;
+     margin-left: 1.5rem;
+     margin-top: 1.5rem;
 }
