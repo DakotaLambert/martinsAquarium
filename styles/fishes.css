@@ -1,7 +1,7 @@
 .fishes {
     display: flex;
     flex-wrap: wrap;
-    justify-content: space-between;
+    justify-content: space-around;
     border-bottom: double black;
 
 }
@@ -30,4 +30,8 @@
 
  .fishGroup {
      border: double black;
+ }
+
+ .fishSpeciesGroup {
+     text-align: center;
  }
